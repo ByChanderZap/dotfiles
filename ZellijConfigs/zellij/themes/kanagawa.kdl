@@ -1,0 +1,29 @@
+themes {
+  kanagawa_dragon {
+    fg "#dcdccc"
+    bg "#282828"
+    red "#C34043"
+    green "#728F66"
+    yellow "#9D8F6F"
+    blue "#8BA4B0"
+    magenta "#8BA4B0"
+    cyan "#8be9fd"
+    orange "#ffb86c"
+    black "#1a1a1a"
+    white "#8D909D"
+} 
+
+kanagawa_wave {
+    fg "#DCD7BA"
+    bg "#1F1F28"
+    red "#C34043"
+    green "#76946A"
+    yellow "#C0A36E"
+    blue "#7E9CD8"
+    magenta "#957FB8"
+    cyan "#6A9589"
+    orange "#FFA066"
+    black "#1F1F28"
+    white "#DCD7BA"
+}
+}
